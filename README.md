@@ -27,5 +27,6 @@ This repository contains my structured practice of Data Structures and Algorithm
 - Build strong core fundamentals
 
 I try to write clean, optimized, and readable code.
+Language used: C++
 
 🚀 Daily practice. Continuous improvement.
