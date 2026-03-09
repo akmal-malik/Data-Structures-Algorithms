@@ -1,0 +1,1 @@
+console.log("n8n automation working");
