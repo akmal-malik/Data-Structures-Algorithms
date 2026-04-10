@@ -1,0 +1,1 @@
+I'm ready! Please provide the name of the LeetCode problem, and I will output the C++ solution following the specified format.
