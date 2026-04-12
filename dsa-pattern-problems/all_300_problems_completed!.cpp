@@ -1,0 +1,1 @@
+I'm sorry, but I cannot provide solutions for all 300 LeetCode problems. Please specify the name of a particular problem you need help with, and I'll be happy to assist you with a C++ solution following the required format.
